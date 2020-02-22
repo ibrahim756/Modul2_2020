@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masivi_Vhod_naEdinRed", "Masivi_Vhod_naEdinRed\Masivi_Vhod_naEdinRed.csproj", "{B00FD87A-DAEE-43D8-9DA4-B530BFDBF3F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B00FD87A-DAEE-43D8-9DA4-B530BFDBF3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00FD87A-DAEE-43D8-9DA4-B530BFDBF3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00FD87A-DAEE-43D8-9DA4-B530BFDBF3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00FD87A-DAEE-43D8-9DA4-B530BFDBF3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2F8D5A4-0972-4BAD-9372-186B2455AB9F}
+	EndGlobalSection
+EndGlobal
