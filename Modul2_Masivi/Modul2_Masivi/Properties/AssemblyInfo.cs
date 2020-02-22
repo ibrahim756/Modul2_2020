@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("07_Pr_5_Spec4isla")]
+[assembly: AssemblyTitle("Modul2_Masivi")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("07_Pr_5_Spec4isla")]
+[assembly: AssemblyProduct("Modul2_Masivi")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("ee536024-6f4d-4d52-9c8d-4697dd1e83c0")]
+[assembly: Guid("0685fabe-3245-4155-a5f6-274de88fa280")]
 
 // Version information for an assembly consists of the following four values:
 //

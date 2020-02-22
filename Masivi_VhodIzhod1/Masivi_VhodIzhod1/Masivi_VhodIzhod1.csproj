@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EE536024-6F4D-4D52-9C8D-4697DD1E83C0}</ProjectGuid>
+    <ProjectGuid>{AEEA6DE4-882F-4685-A143-B4F39BB74D52}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_07_Pr_5_Spec4isla</RootNamespace>
-    <AssemblyName>07_Pr_5_Spec4isla</AssemblyName>
+    <RootNamespace>Masivi_VhodIzhod1</RootNamespace>
+    <AssemblyName>Masivi_VhodIzhod1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
